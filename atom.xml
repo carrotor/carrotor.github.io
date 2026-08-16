@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Konfly</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://konfly.me/images/zz.jpg</icon>
+  <id>https://konfly.me/</id>
+  <link href="https://konfly.me/" rel="alternate"/>
+  <link href="https://konfly.me/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Konfly</rights>
+  <subtitle>我的精神游乐场</subtitle>
+  <title>What made you do that?</title>
+  <updated>2026-08-16T19:41:55.394Z</updated>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="随笔" scheme="https://konfly.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://konfly.me/2026/07/31/lazy/</id>
+    <link href="https://konfly.me/2026/07/31/lazy/"/>
+    <published>2026-07-31T15:57:43.000Z</published>
+    <summary>一个懒人的自白。</summary>
+    <title>小懒虫自白</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="生活" scheme="https://konfly.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="家居" scheme="https://konfly.me/tags/%E5%AE%B6%E5%B1%85/"/>
+    <id>https://konfly.me/2025/05/04/my-bedroom/</id>
+    <link href="https://konfly.me/2025/05/04/my-bedroom/"/>
+    <published>2025-05-04T19:50:38.000Z</published>
+    <summary>用绿色、白色与蓝色整理卧室，也整理出一个舒服而且很像自己的生活空间。</summary>
+    <title>我的卧室现在是世界上最舒服的地方！</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="回忆" scheme="https://konfly.me/tags/%E5%9B%9E%E5%BF%86/"/>
+    <id>https://konfly.me/2025/04/06/new-yvr/</id>
+    <link href="https://konfly.me/2025/04/06/new-yvr/"/>
+    <published>2025-04-06T22:23:12.000Z</published>
+    <summary>再次回到温哥华，回望疫情时期的孤独、创伤、自救，以及如今变化的心境。</summary>
+    <title>再回温哥华</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="生活" scheme="https://konfly.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="成长" scheme="https://konfly.me/tags/%E6%88%90%E9%95%BF/"/>
+    <id>https://konfly.me/2025/03/27/change-3/</id>
+    <link href="https://konfly.me/2025/03/27/change-3/"/>
+    <published>2025-03-27T19:25:02.000Z</published>
+    <summary>买车、学电吉他、尝试新的运动，一次关于变化、自由和行动的近况记录。</summary>
+    <title>Checkin：最近我有很多变化！</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="工作" scheme="https://konfly.me/tags/%E5%B7%A5%E4%BD%9C/"/>
+    <category term="成长" scheme="https://konfly.me/tags/%E6%88%90%E9%95%BF/"/>
+    <id>https://konfly.me/2025/02/23/work-7/</id>
+    <link href="https://konfly.me/2025/02/23/work-7/"/>
+    <published>2025-02-23T17:02:47.000Z</published>
+    <summary>全职工作七周年，从实习到两家公司，回望成长、运气、班味和工作生活平衡。</summary>
+    <title>班味增加与去班味养成计划</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="回忆" scheme="https://konfly.me/tags/%E5%9B%9E%E5%BF%86/"/>
+    <id>https://konfly.me/2025/02/19/something-new/</id>
+    <link href="https://konfly.me/2025/02/19/something-new/"/>
+    <published>2025-02-19T19:34:57.000Z</published>
+    <summary>从 Windows 98、QQ 宠物、千千静听到诺基亚刷机，回望属于我的电子中式梦核。</summary>
+    <title>我的电子中式梦核</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="生活" scheme="https://konfly.me/tags/%E7%94%9F%E6%B4%BB/"/>
+    <id>https://konfly.me/2025/02/16/me-and-cat-and-dog/</id>
+    <link href="https://konfly.me/2025/02/16/me-and-cat-and-dog/"/>
+    <published>2025-02-16T13:05:43.000Z</published>
+    <summary>从收养猪猪到与 Toro 相处，记录猫和狗带来的陪伴与治愈。</summary>
+    <title>我和小猫，我和小狗</title>
+    <updated>2026-08-16T19:41:55.394Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Konfly</name>
+    </author>
+    <category term="关于本站" scheme="https://konfly.me/tags/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99/"/>
+    <category term="随笔" scheme="https://konfly.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://konfly.me/2025/02/15/what-made-you-do-that/</id>
+    <link href="https://konfly.me/2025/02/15/what-made-you-do-that/"/>
+    <published>2025-02-15T00:00:00.000Z</published>
+    <summary>为什么开始写博客，以及这里如何成为记录自己、他人与世界的精神游乐场。</summary>
+    <title>What made you do that?</title>
+    <updated>2026-08-16T19:41:55.393Z</updated>
+  </entry>
+</feed>
