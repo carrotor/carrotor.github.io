@@ -1,0 +1,93 @@
+#hexo-blog-encrypt.site-lock-container,
+.post-details #hexo-blog-encrypt {
+  width: min(520px, 100%);
+  margin: 28px auto;
+}
+
+#hexo-blog-encrypt.site-lock-unlocked {
+  display: block !important;
+  width: 100%;
+  margin: 0;
+}
+
+#hexo-blog-encrypt .hbe-content {
+  padding: 0;
+}
+
+#hexo-blog-encrypt .hbe-input.hbe-input-default {
+  display: flex;
+  flex-direction: column;
+  width: min(360px, 88%);
+  min-width: 0;
+  margin: 0 auto;
+  overflow: visible;
+}
+
+#hexo-blog-encrypt .hbe-input-label.hbe-input-label-default {
+  position: static;
+  order: 1;
+  float: none;
+  width: 100%;
+  padding: 0;
+  color: var(--color-text-a);
+  font-family: inherit;
+  font-size: 1.35rem;
+  text-align: center;
+  pointer-events: auto;
+}
+
+#hexo-blog-encrypt .hbe-input-label-default::before,
+#hexo-blog-encrypt .hbe-input-label-default::after {
+  display: none;
+}
+
+#hexo-blog-encrypt .hbe-input-label-content.hbe-input-label-content-default {
+  padding: 0 0 10px;
+  color: var(--color-text-a);
+  transform: none;
+}
+
+#hexo-blog-encrypt .hbe-input-field.hbe-input-field-default {
+  position: static;
+  order: 2;
+  float: none;
+  width: 100%;
+  height: 40px;
+  margin: 0;
+  padding: 8px 12px;
+  border: 1px solid var(--color-divider-md-border);
+  border-radius: 7px;
+  box-sizing: border-box;
+  color: var(--color-text-base);
+  background: rgb(120 120 120 / 8%);
+  font-family: inherit;
+  font-size: 1.45rem;
+  opacity: 1;
+}
+
+#hexo-blog-encrypt .hbe-input-field.hbe-input-field-default:focus {
+  border-color: rgb(84 160 220 / 55%);
+  outline: 2px solid rgb(84 160 220 / 18%);
+}
+
+#hexo-blog-encrypt .hbe-button {
+  width: auto;
+  height: auto;
+  margin: 28px auto 0;
+  padding: 8px 14px;
+  border: 1px solid var(--color-divider-md-border);
+  border-radius: 999px;
+  color: var(--color-text-sub);
+  background: transparent;
+  box-shadow: none;
+  font-family: inherit;
+  font-size: 1.15rem;
+  line-height: 1.4;
+  text-align: center;
+  text-indent: 0;
+  text-shadow: none;
+}
+
+#hexo-blog-encrypt .hbe-button::after {
+  display: none;
+}
